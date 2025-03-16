@@ -9,6 +9,6 @@ At a high level the default screen enables the user to choose which mode to ente
 Below is a demonstration of ...
 
 <video controls>
-  <source src="https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/video.mp4" type="video/mp4">
+  <source src="https://github.com/Antonio-Peer/EEC172-Final-Project/edit/main/video_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
