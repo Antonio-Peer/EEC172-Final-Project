@@ -3,6 +3,13 @@
 
 ### Project Description:
 
+### Reasons James Pompa thinks this is bullshit:
+
+1) its bullshit
+2) its not the actual project we were assigned
+3) seems like you spend more time fixing links or some shit than doing the project
+4) baguettes make me sleepy 😴 
+
 We have prototyped a biometric attendance system. This system consists of 4 primary hardware components, namely the CC3200 micro controller, a thumbprint scanner module, IR receiver module with IR remote control for input, and OLED display module.
 Our system is designed to offer three primary menu modes/pathways of interaction: student menu, administrator menu, and enrollment prompts.
 At a high level the default screen enables the user to choose which mode to enter and when the appropriate form of authentication based on the menu is provided, the user gains access to all of the interactions within that mode.
