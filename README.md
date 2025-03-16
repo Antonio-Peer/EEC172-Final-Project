@@ -8,4 +8,4 @@ Our system is designed to offer three primary menu modes/pathways of interaction
 At a high level the default screen enables the user to choose which mode to enter and when the appropriate form of authentication based on the menu is provided, the user gains access to all of the interactions within that mode.
 Below is a demonstration of ...
 
-[![Watch the video](https://github.com/Antonio-Peer/EEC172-Final-Project/edit/main/thumbnail.jpg)](https://github.com/Antonio-Peer/EEC172-Final-Project/edit/main/video_demo.mp4)
+[![Watch the video](https://github.com/Antonio-Peer/EEC172-Final-Project/blob/main/thumbnail.jpg)](https://github.com/Antonio-Peer/EEC172-Final-Project/edit/main/video_demo.mp4)
