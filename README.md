@@ -10,5 +10,5 @@ Below is a demonstration of the enrollment process for example.
 
 https://github.com/user-attachments/assets/7ca95a25-8ed5-444f-8637-bc892c67f374
 
-[![Watch the video](thumbnail.jpg)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](thumbnail.jpg)](video_demo.mp4)
 
